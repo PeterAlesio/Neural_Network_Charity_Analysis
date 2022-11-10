@@ -8,6 +8,7 @@ The non profit company, Alphabet Soup is looking for a way to vet potential char
 - I tried to increase the model performance by dropping more columns, creating more bins for rare occurances in columns, decreasing the number of values in some bins,    adding more neurons to the hidden layers, using a differnet activation function, and increasing the number of epochs.
 
 ## Summary
-
+the accuracy of my optimized model for predicting whether a donation is successful ended up being 0.6679 and its loss metric was 1.5166.
 
 ## Recommendation
+Using a random forest model could yield a more accurate result and model.
