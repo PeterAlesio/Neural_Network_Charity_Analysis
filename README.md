@@ -4,7 +4,7 @@ The non profit company, Alphabet Soup is looking for a way to vet potential char
 
 ## Results
 - I selected 120 neurons with a sigmoid function for my first layer, 50 nuerons with a ReLU function for the second, and 18 neurons with for the third, and a sigmoid function for the outer layer. I chose to change the activation function for the first layer because it increased the model's performance.
-- I only achieved an accuracy of 69% and was not able to achieve the target model performance.
+- I only achieved an accuracy of 67% after the optimizations and was not able to achieve the target model performance.
 - I tried to increase the model performance by dropping more columns, creating more bins for rare occurances in columns, decreasing the number of values in some bins,    adding more neurons to the hidden layers, using a differnet activation function, and increasing the number of epochs.
 
 ## Summary
